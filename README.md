@@ -1,2 +1,2 @@
 # hello-world
-my new try
+my new try i am trying to learn github
